@@ -18,9 +18,15 @@
 ---
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VisalakshiNedunuri&show_icons=true&theme=radical)  
+## 📈 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VisalakshiNedunuri&layout=compact&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VisalakshiNedunuri&show_icons=true&theme=tokyonight)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VisalakshiNedunuri&layout=compact&theme=radical)  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VisalakshiNedunuri&theme=gruvbox)  
+
+![Profile Views](https://komarev.com/ghpvc/?username=VisalakshiNedunuri&color=blue)
 
 ---
 
