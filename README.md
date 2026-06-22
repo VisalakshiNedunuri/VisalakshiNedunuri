@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Visalakshi
 
 ## 🚀 About Me
-- 🎓 Final-year B.Tech student in **Computer Science and Engineering**.  
+- 🎓 B.Tech CSE Graduate in **Computer Science and Engineering**.  
 - 📊 Passionate about **Data Analytics, Full-stack Development (Django and JavaScript-focused) and Artificial Intelligence and Machine Learning**.  
 - 🌱 Currently learning: **Data Analysis with Python & SQL**, Backend Development and PowerBI
 - 🎯 Goal: To become a **Data Analyst & Full Stack Developer**.  
