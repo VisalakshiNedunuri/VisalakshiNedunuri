@@ -2,18 +2,18 @@
 
 ## 🚀 About Me
 - 🎓 Final-year B.Tech student in **Computer Science and Engineering**.  
-- 📊 Passionate about **Data Analytics, Full-stack Development (JavaScript-focused) and Artificial Intelligence and Machine Learning**.  
+- 📊 Passionate about **Data Analytics, Full-stack Development (Django and JavaScript-focused) and Artificial Intelligence and Machine Learning**.  
 - 🌱 Currently learning: **Data Analysis with Python & SQL**, Backend Development and PowerBI
-- 🎯 Goal: To become a **Data Analyst & Full Stack Development**.  
+- 🎯 Goal: To become a **Data Analyst & Full Stack Developer**.  
 
 ---
 
 ## 🛠️ Tech Stack
-- **Languages:**Python, JavaScript, SQL, Java, c  
+- **Languages:** Python, JavaScript, SQL, Java, c  
 - **Frontend:** HTML, CSS, Javascript, React.js 
 - **Backend:** Node.js,Django,Django Rest Framework
 - **Database:** SQL ,MySQL  
-- **Tools:** Git, GitHub, VS Code, MySQL Workbench ,Microsoft Excel,PwerBI
+- **Tools:** Git, GitHub, VS Code, MySQL Workbench ,Microsoft Excel,PoweBI,Google colab
 
 ---
 
@@ -31,13 +31,11 @@
 ---
 
 ## 🌟 Featured Projects
-- 📚 [BookBound](https://github.com/VisalakshiNedunuri/BookBound) – Online bookstore with exam paper downloads.  
+- 📚 [Django JobPortal](https://github.com/VisalakshiNedunuri/django-job-portal) – A full backend job portal system with roles. 
 - 🤖 [Cluster Identification](https://github.com/VisalakshiNedunuri/Cluster-Identification) – InceptionV3-based image classification project. 
 - 📚 [Credit Card Approval](https://github.com/VisalakshiNedunuri/Credit-card-Approval) – build a data science model to the credit card approval using python.
 - 🤖 [Persionalized Anime Recommender](https://github.com/VisalakshiNedunuri/Personalized-Anime-Recommender) – Build a model to suggest similar anime using context based filtering.
-- 🎨 [Crafty Cardboard](https://github.com/YourUserName/Crafty-Cardboard) – Creativity with waste materials.
 
----
 
 ## 📫 Connect with Me
 - 📧 Email: visalakshinedunuri@gmail.com
