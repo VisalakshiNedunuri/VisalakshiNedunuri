@@ -9,11 +9,11 @@
 ---
 
 ## 🛠️ Tech Stack
-- **Languages:** JavaScript, Python, SQL, Java, c , PowerBI , Microsoft Excel 
+- **Languages:**Python, JavaScript, SQL, Java, c  
 - **Frontend:** HTML, CSS, Javascript, React.js 
-- **Backend:** Node.js
-- **Database:** MySQL  
-- **Tools:** Git, GitHub, VS Code, MySQL Workbench  
+- **Backend:** Node.js,Django,Django Rest Framework
+- **Database:** SQL ,MySQL  
+- **Tools:** Git, GitHub, VS Code, MySQL Workbench ,Microsoft Excel,PwerBI
 
 ---
 
