@@ -11,7 +11,7 @@
 ## 🛠️ Tech Stack
 - **Languages:** Python, JavaScript, SQL, Java, c  
 - **Frontend:** HTML, CSS, Javascript, React.js 
-- **Backend:** Node.js,Django,Django Rest Framework
+- **Backend:** RestAPI,Django,Django Rest Framework
 - **Database:** SQL ,MySQL  
 - **Tools:** Git, GitHub, VS Code, MySQL Workbench ,Microsoft Excel,PoweBI,Google colab
 
