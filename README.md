@@ -31,7 +31,8 @@
 ---
 
 ## 🌟 Featured Projects
-- 📚 [Django Job Portal Backend](https://github.com/VisalakshiNedunuri/django-job-portal-api) – A full backend job portal system with roles. 
+- 📚 [Django Job Portal Backend](https://github.com/VisalakshiNedunuri/django-job-portal-api) – A full backend job portal system with roles.
+- 🤖 [Full Stack RAG Chatbot](https://github.com/VisalakshiNedunuri/Full-stack RAG Chatbot) – Using Langchain,Ollama(llama3),MYSQL,React 
 - 🤖 [Cluster Identification](https://github.com/VisalakshiNedunuri/Cluster-Identification) – InceptionV3-based image classification project. 
 - 📚 [Credit Card Approval](https://github.com/VisalakshiNedunuri/Credit-card-Approval) – build a data science model to the credit card approval using python.
 - 🤖 [Persionalized Anime Recommender](https://github.com/VisalakshiNedunuri/Personalized-Anime-Recommender) – Build a model to suggest similar anime using context based filtering.
