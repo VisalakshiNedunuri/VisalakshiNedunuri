@@ -4,7 +4,7 @@
 - 🎓 B.Tech CSE Graduate in **Computer Science and Engineering**.  
 - 📊 Passionate about **Full-stack Development and Artificial Intelligence**.  
 - 🌱 Currently learning: **Java Fullstack Development**,**MYSQL**
-- 🎯 Goal: To become a **Java Full Stack Developer with AI**.  
+- 🎯 Goal: To become a **Java Full Stack Developer integrated with AI**.  
 
 ---
 
