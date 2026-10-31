@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Visalakshi
 
 ## 🚀 About Me
-- 🎓 B.Tech CSE Graduate in **Computer Science and Engineering**.  
+- 🎓 B.Tech CSE Graduate in **Computer Science and Engineering** in IIIT Srikakulam  
 - 📊 Passionate about **Full-stack Development and Artificial Intelligence**.  
 - 🌱 Currently learning: **Java Fullstack Development**,**MYSQL**
 - 🎯 Goal: To become a **Java Full Stack Developer integrated with AI**.  
