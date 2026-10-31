@@ -2,18 +2,18 @@
 
 ## 🚀 About Me
 - 🎓 B.Tech CSE Graduate in **Computer Science and Engineering**.  
-- 📊 Passionate about **Data Analytics, Full-stack Development (Django and JavaScript-focused) , Artificial Intelligence and Machine Learning**.  
-- 🌱 Currently learning: **Data Analysis with Python & SQL**, Backend Development and PowerBI
-- 🎯 Goal: To become a **Data Analyst & AI ML Full Stack Developer**.  
+- 📊 Passionate about **Full-stack Development and Artificial Intelligence**.  
+- 🌱 Currently learning: **Java Fullstack Development**,**MYSQL**
+- 🎯 Goal: To become a **Java Full Stack Developer with AI**.  
 
 ---
 
 ## 🛠️ Tech Stack
-- **Languages:** Python, JavaScript, SQL, Java, c  
-- **Frontend:** HTML, CSS, Javascript, React.js 
-- **Backend:** RestAPI,Django,Django Rest Framework
-- **Database:** SQL ,MySQL  
-- **Tools:** Git, GitHub, VS Code, MySQL Workbench ,Microsoft Excel,PoweBI,Google colab
+- **Languages:** core Java and  Advanced Java, Python, JavaScript, SQL, c  
+- **Frontend:** HTML, CSS, Javascript, React.js,Bootstrap
+- **Backend:** RestAPI,Django,Django Rest Framework,SpringBoot
+- **Database:** MySQL ,Oracle 
+- **Tools:** Eclipse,Git, GitHub, VS Code, MySQL Workbench ,Microsoft Excel,Google colab
 
 ---
 
